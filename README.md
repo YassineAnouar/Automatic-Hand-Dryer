@@ -5,26 +5,20 @@ This project improves hygiene, reduces energy waste by operating only when neede
 
 ---
 
-##  Objectives
-- Provide touchless hand drying
-- Improve hygiene
-- Reduce unnecessary energy consumption
-- Automate daily-use devices
-
----
-
 ##  How It Works
 The system uses a sensor to detect the presence of hands.
-When hands are detected, the microcontroller activates the dryer (fan or motor).
+When hands are detected, the microcontroller activates the dryer.
 When hands are removed, the system automatically stops.
 
 ---
 
 ##  Components Used
 - Microcontroller (Arduino)
-- Sensor (IR / Ultrasonic)
-- Relay Module or Transistor
-- Motor / Fan
+- Ultrasonic Sensor
+- Relay
+- Hair dryer
+- LEDs (Green and Red)
+- Resistors (300 Ohms)
 - Power Supply
 
 ---
@@ -37,17 +31,5 @@ When hands are removed, the system automatically stops.
 
 ---
 
-##  Project Structure
-- /code → Source code
-- /images → Project photos
-- /docs → Diagrams
-
----
-
 ##  Demo Video
 https://youtube.com/shorts/yVpKz9080Ew?si=UMfYEiWddKxPsTxR
-
----
-
-##  Project Image
-(Image will be added here)
