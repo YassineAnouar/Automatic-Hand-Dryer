@@ -1,12 +1,11 @@
 # Automatic Hand Dryer Using Sensors
 
-An automatic hand dryer system designed to detect hands using sensors and activate airflow without physical contact.
-
-This project improves hygiene and reduces energy waste by operating only when needed.
+An automatic hand dryer system designed to detect hands using sensors and activate hot airflow without physical contact.
+This project improves hygiene, reduces energy waste by operating only when needed, and enhances user safety by preventing electric shock hazards through complete isolation of electrical components.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Provide touchless hand drying
 - Improve hygiene
 - Reduce unnecessary energy consumption
@@ -14,14 +13,14 @@ This project improves hygiene and reduces energy waste by operating only when ne
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 The system uses a sensor to detect the presence of hands.
 When hands are detected, the microcontroller activates the dryer (fan or motor).
 When hands are removed, the system automatically stops.
 
 ---
 
-## 🧩 Components Used
+##  Components Used
 - Microcontroller (Arduino)
 - Sensor (IR / Ultrasonic)
 - Relay Module or Transistor
@@ -30,7 +29,7 @@ When hands are removed, the system automatically stops.
 
 ---
 
-## 🛠️ Features
+##  Features
 - Touchless operation
 - Automatic ON/OFF control
 - Energy efficient
@@ -38,22 +37,17 @@ When hands are removed, the system automatically stops.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 - /code → Source code
 - /images → Project photos
 - /docs → Diagrams
 
 ---
 
-## 🎥 Demo Video
+##  Demo Video
 (Add your YouTube link here)
 
 ---
 
-## 📷 Project Image
+##  Project Image
 (Image will be added here)
-
----
-
-## 📄 Educational Purpose
-This project was developed for learning and practical engineering experience.
