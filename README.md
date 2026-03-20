@@ -1,4 +1,4 @@
-# Automatic Hand Dryer Using Sensors
+# Automatic Hand Dryer
 
 An automatic hand dryer system designed to detect hands using sensors and activate hot airflow without physical contact.
 This project improves hygiene, reduces energy waste by operating only when needed, and enhances user safety by preventing electric shock hazards through complete isolation of electrical components.
