@@ -1,1 +1,1 @@
-![System Diagram](system-diagram.jpg)
+![System Diagram](System Diagram.png)
