@@ -31,6 +31,11 @@ When hands are removed, the system automatically stops.
 
 ---
 
+##  System Diagram
+![System Diagram](Docs/System-Diagram.png)
+
+---
+
 ##  Demo Video
 Watch the project in action:
 https://youtube.com/shorts/yVpKz9080Ew
